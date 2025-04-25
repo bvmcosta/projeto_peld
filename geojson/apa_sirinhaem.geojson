@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "apa_sirinhaem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Sirinhaém", "uc_id": 15576, "cd_cnuc": "0000.26.0975", "wdpa_pid": 555682374, "nome_uc": "ÁREA DE PROTEÇÃO AMBIENTAL DE SIRINHAÉM", "cria_ano": "29-12-1998", "cria_ato": "Decreto 21.229/1998 de 28-12-1998", "outro_ato": "Sem informação", "pl_manejo": "Não", "co_gestor": "Não", "quali_pol": "Polígono é uma representação esquemática da localização da UC", "ha_ato": 6589, "esfera": "Estadual", "uf": "PERNAMBUCO", "municipio": "RIO FORMOSO (PE), SIRINHAÉM (PE)", "org_gestor": "AGÊNCIA ESTADUAL DO MEIO AMBIENTE DE PERNAMBUCO - PE", "grupo": "Uso Sustentável", "categoria": "Área de Proteção Ambiental", "cat_iucn": "Category V", "matlantica": 7562.57, "situacao": "Ativo", "limite": "uc" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -35.230883896986398, -8.665286651441679 ], [ -35.182715735018903, -8.58534963769851 ], [ -35.115519978331498, -8.587080212390029 ], [ -35.0972769642282, -8.57271671578801 ], [ -35.076850759403001, -8.574183098704459 ], [ -35.056484961236997, -8.586947774340841 ], [ -35.0515700158101, -8.6018895579519 ], [ -35.067137808486201, -8.625309342608579 ], [ -35.077501710396298, -8.610338034314539 ], [ -35.109626813898799, -8.588920404094321 ], [ -35.221435842493698, -8.684102993413591 ], [ -35.230883896986398, -8.665286651441679 ] ] ] } }
+]
+}

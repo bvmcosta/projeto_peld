@@ -1,0 +1,26 @@
+ponto,fonte,descricao,latitude,longitude,color
+F1,Estação de Tratamento de Esgoto,ETE Tamandaré,-8.747,-35.111,red
+F2,Estação de Tratamento de Esgoto,ETE Rio Formoso,-8.659,-35.144,red
+F3,Estação de Tratamento de Esgoto,ETE Sirinhaém,-8.598,-35.107,red
+F4,Estação de Tratamento de Esgoto,ETE Barra de Sirinhaém,-8.621,-35.069,red
+F5,Ponto de Lançamento,Efluente tratado,-8.734,-35.105,red
+F6,Ponto de Lançamento,Efluente tratado,-8.66,-35.156,red
+F7,Aquicultura,Área de viveiro,-8.661,-35.149,blue
+F8,Aquicultura,Área de viveiro,-8.662,-35.149,blue
+F9,Aquicultura,Área de viveiro,-8.633,-35.071,blue
+F10,Aquicultura,Área de viveiro,-8.643,-35.075,blue
+F11,Aquicultura,Área de viveiro,-8.639,-35.082015,blue
+F12,Aquicultura,Área de viveiro,-8.656,-35.118,blue
+F13,Aquicultura,Área de viveiro,-8.648,-35.114,blue
+F14,Aquicultura,Área de viveiro,-8.709,-35.116,blue
+F15,Porto,Porto da cidade de Rio Formoso,-8.661,-35.149,black
+F16,Porto,Região de ancoragem e reparo de embarcações no Estuário do Rio Mamucabas,-8.779,-35.107,black
+F17,Assentamento rural,Região de assentamento rural Brejo I,-8.754,-35.139,yellow
+F18,Assentamento rural,Região de assentamento rural Brejo II,-8.757,-35.134,yellow
+F19,Área desmatada,Região desmatada às margens do Rio Mamucabas,-8.757,-35.135,green
+F20,Área urbana,Região urbana da cidade de Tamandaré,-8.742,-35.093,gray
+F21,Área urbana,Região urbana da cidade de Rio Formoso,-8.663,-35.152,gray
+F22,Área urbana,Região urbana da cidade de Sirinhaém,-8.673,-35.074,gray
+F23,Marina,Marina no Rio Ariquindá,-8.700,-35.105,purple
+F24,Marina,Marina no Rio Ariquindá,-8.727,-35.096,purple
+F25,Marina,Marina no Rio Ariquindá,-8.728,-35.096,purple
