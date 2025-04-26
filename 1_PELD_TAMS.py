@@ -310,7 +310,7 @@ mapa_municipios = create_mapa_municipios(lista_municipios)
 with st.sidebar:
 
     st.markdown("<h4 style='text-align: left; color: black;'>Escolha a Unidade de Conservação</h4>", unsafe_allow_html=True)
-    ucs = list(st.multiselect(label = '', 
+    ucs = list(st.multiselect(label = '(Escolha apenas uma)', 
                    options = ['APA Costa dos Corais',
                               'APA de Guadalupe',
                               'APA de Sirinhaém',
