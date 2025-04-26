@@ -138,7 +138,7 @@ df = load_data(path)
 with st.sidebar:
 
     st.markdown("<h4 style='text-align: left; color: black;'>Escolha o Ecossistema</h4>", unsafe_allow_html=True)
-    eco = st.multiselect(label = '',
+    eco = st.multiselect(label = '(Escolha apenas um)',
                          options = ['Baía e Recifes de Corais',
                                     'Praia',
                                     'Estuário e Manguezal',
@@ -148,7 +148,7 @@ with st.sidebar:
                          max_selections = 1)
 
     st.markdown("<h4 style='text-align: left; color: black;'>Escolha a fonte de poluição</h4>", unsafe_allow_html=True)
-    fonte = st.multiselect(label = '',
+    fonte = st.multiselect(label = '(Escolha apenas uma)',
                          options = ['Estação de Tratamento de Esgoto',
                                     'Marina',
                                     'Porto',
