@@ -1,7 +1,7 @@
 ponto,ambiente,matriz,descricao,latitude,longitude,projeto,color
 P1,Estuário e Manguezal,sedimento,Estuário do Rio Formoso sob influência do efluente da COMPESA,-8.672,-35.13,peld_cnpq,darkgreen
-P2,Estuário e Manguezal,sedimento,agricultura,-8.638,-35.085,peld_cnpq,darkgreen
-P3,Estuário e Manguezal,sedimento,aquicultura,-8.651,-35.085,peld_cnpq,darkgreen
+P2,Estuário e Manguezal,sedimento,Estuário do Rio Formoso sob influência agrícola,-8.638,-35.085,peld_cnpq,darkgreen
+P3,Estuário e Manguezal,sedimento,Estuário do Rio Formoso sob influência do efluente da aquicultura,-8.651,-35.085,peld_cnpq,darkgreen
 P4,Estuário e Manguezal,sedimento,Manguezal na Praia da Pedra,-8.682,-35.114,peld_cnpq,darkgreen
 P5,Estuário e Manguezal,sedimento,Manguezal no píer de Mariassu,-8.683,-35.102,peld_cnpq,darkgreen
 P6,Estuário e Manguezal,sedimento,Marina no Rio Ariquindá,-8.727,-35.096,peld_cnpq,darkgreen
