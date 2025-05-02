@@ -39,9 +39,9 @@ def create_map(dataframe, geojson_file):
     fig.update_layout(mapbox_layers = [{"source": geojson_file, "color": "black", "type": "line", "visible": True}])
     
     fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-    fig.show(config={'scrollZoom': True})
+    #fig.show(config={'scrollZoom': True})
 
-    return 
+    return fig
 #-------------------------------------------------------------------------------------------------
 path = './datasets/contaminantes_padronizados.csv'
 geojson_path = './geojson/guadalupe.geojson'
@@ -94,4 +94,5 @@ st.markdown("<h1 style='text-align: center; color: black;'>Mapa de Contaminaçã
 
 st.dataframe(df2)
 
-#st.plotly_chart(create_map(df1, guadalupe))
+config = {"scrollZoom": True}
+st.plotly_chart(create_map(df2, guadalupe), config = config)
