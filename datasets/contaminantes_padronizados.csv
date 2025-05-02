@@ -1,0 +1,1566 @@
+id_organomar,ponto,ambiente,matriz,campanha,latitude,longitude,grupo,unidade,analito,concentracao_padronizada
+,,Mapa base,Matriz,Mês/Ano,,,Contaminantes,,Analito,
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,naftaleno,0
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,naftaleno,0.13
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,naftaleno,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,naftaleno,0
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,naftaleno,0
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,naftaleno,1
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,naftaleno,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,naftaleno,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,naftaleno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,naftaleno,0
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,naftaleno,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c1_naftaleno,0
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c1_naftaleno,0
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c1_naftaleno,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c1_naftaleno,0
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c1_naftaleno,0
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c1_naftaleno,1
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c1_naftaleno,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c1_naftaleno,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c1_naftaleno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c1_naftaleno,0.89
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c1_naftaleno,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c2_naftaleno,0.57
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c2_naftaleno,0.17
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c2_naftaleno,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c2_naftaleno,0
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c2_naftaleno,0
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c2_naftaleno,1
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c2_naftaleno,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c2_naftaleno,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c2_naftaleno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c2_naftaleno,0.58
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c2_naftaleno,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c3_naftaleno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c3_naftaleno,0.18
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c3_naftaleno,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c3_naftaleno,0
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c3_naftaleno,0
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c3_naftaleno,0.68
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c3_naftaleno,0.03
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c3_naftaleno,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c3_naftaleno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c3_naftaleno,0.2
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c3_naftaleno,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c4_naftaleno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c4_naftaleno,0.16
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c4_naftaleno,0.04
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c4_naftaleno,0.04
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c4_naftaleno,0.03
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c4_naftaleno,0.5
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c4_naftaleno,0.15
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c4_naftaleno,0.08
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c4_naftaleno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c4_naftaleno,0.38
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c4_naftaleno,0.12
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,acenaftileno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,acenaftileno,0.67
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,acenaftileno,0.17
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,acenaftileno,0.24
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,acenaftileno,0.33
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,acenaftileno,0.98
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,acenaftileno,0.24
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,acenaftileno,0.83
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,acenaftileno,0.07
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,acenaftileno,0.24
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,acenaftileno,0.28
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,acenafteno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,acenafteno,0.64
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,acenafteno,0.14
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,acenafteno,0.27
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,acenafteno,0.36
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,acenafteno,0.5
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,acenafteno,0.14
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,acenafteno,0.32
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,acenafteno,0.14
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,acenafteno,0.36
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,acenafteno,0.14
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,fluoreno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,fluoreno,0.76
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,fluoreno,0.17
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,fluoreno,0.19
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,fluoreno,0.21
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,fluoreno,0.69
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,fluoreno,0.04
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,fluoreno,0.21
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,fluoreno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,fluoreno,0.11
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,fluoreno,0.04
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c1_fluoreno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c1_fluoreno,0.37
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c1_fluoreno,0.05
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c1_fluoreno,0
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c1_fluoreno,0.02
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c1_fluoreno,0.41
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c1_fluoreno,0.07
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c1_fluoreno,0.11
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c1_fluoreno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c1_fluoreno,0.06
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c1_fluoreno,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c2_fluoreno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c2_fluoreno,0.48
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c2_fluoreno,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c2_fluoreno,0.09
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c2_fluoreno,0
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c2_fluoreno,0.03
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c2_fluoreno,0.04
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c2_fluoreno,0.07
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c2_fluoreno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c2_fluoreno,0.14
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c2_fluoreno,0.01
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c3_fluoreno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c3_fluoreno,0.17
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c3_fluoreno,0.07
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c3_fluoreno,0.11
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c3_fluoreno,0.12
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c3_fluoreno,0.44
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c3_fluoreno,0.08
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c3_fluoreno,0.09
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c3_fluoreno,0.03
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c3_fluoreno,0.31
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c3_fluoreno,0.12
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,fenantreno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,fenantreno,0.75
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,fenantreno,0.04
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,fenantreno,0.25
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,fenantreno,0.29
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,fenantreno,0.88
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,fenantreno,0.04
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,fenantreno,0.47
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,fenantreno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,fenantreno,0.24
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,fenantreno,0.01
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,antraceno,0.84
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,antraceno,1
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,antraceno,0.14
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,antraceno,0.31
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,antraceno,0.34
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,antraceno,0.67
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,antraceno,0.16
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,antraceno,0.53
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,antraceno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,antraceno,0.13
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,antraceno,0.04
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c1_fenantreno_antraceno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.53
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.01
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.13
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.17
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.76
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.03
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.14
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c1_fenantreno_antraceno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.36
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.01
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c2_fenantreno_antraceno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.19
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c2_fenantreno_antraceno,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.1
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.13
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.53
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.04
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.15
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c2_fenantreno_antraceno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.63
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.04
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c3_fenantreno_antraceno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.14
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.03
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.08
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.09
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.43
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.01
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.12
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c3_fenantreno_antraceno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.97
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.06
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.83
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.12
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.01
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.06
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.06
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.29
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.01
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.07
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c4_fenantreno_antraceno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c4_fenantreno_antraceno,1
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.05
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,fluoranteno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,fluoranteno,0.67
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,fluoranteno,0.14
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,fluoranteno,0.26
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,fluoranteno,0.44
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,fluoranteno,0.66
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,fluoranteno,0.29
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,fluoranteno,0.76
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,fluoranteno,0.02
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,fluoranteno,0.11
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,fluoranteno,0.15
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,pireno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,pireno,0.58
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,pireno,0.13
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,pireno,0.23
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,pireno,0.36
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,pireno,0.66
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,pireno,0.24
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,pireno,0.61
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,pireno,0.01
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,pireno,0.13
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,pireno,0.14
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c1_fluoranteno_pireno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.34
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.08
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.15
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.23
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.6
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.29
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.37
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c1_fluoranteno_pireno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.45
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.11
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.28
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.1
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.01
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.03
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.04
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.22
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.03
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.13
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c2_fluoranteno_pireno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c2_fluoranteno_pireno,1
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.03
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.17
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.17
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.02
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.03
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.06
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.26
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.01
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.04
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c3_fluoranteno_pireno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c3_fluoranteno_pireno,1
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.04
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,benzo_a_antraceno,0.68
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,benzo_a_antraceno,1
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,benzo_a_antraceno,0.12
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,benzo_a_antraceno,0.22
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,benzo_a_antraceno,0.52
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,benzo_a_antraceno,0.79
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,benzo_a_antraceno,0.12
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,benzo_a_antraceno,0.29
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,benzo_a_antraceno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,benzo_a_antraceno,0.21
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,benzo_a_antraceno,0.26
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,criseno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,criseno,0.47
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,criseno,0.11
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,criseno,0.19
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,criseno,0.29
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,criseno,0.48
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,criseno,0.33
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,criseno,0.65
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,criseno,0.01
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,criseno,0.21
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,criseno,0.17
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c1_benzo_a_criseno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c1_benzo_a_criseno,0.12
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c1_benzo_a_criseno,0.05
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c1_benzo_a_criseno,0.09
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c1_benzo_a_criseno,0.1
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c1_benzo_a_criseno,0.15
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c1_benzo_a_criseno,0.12
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c1_benzo_a_criseno,0.29
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c1_benzo_a_criseno,0.01
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c1_benzo_a_criseno,0.63
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c1_benzo_a_criseno,0.06
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c2_benzo_a_criseno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c2_benzo_a_criseno,0.14
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c2_benzo_a_criseno,0.04
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c2_benzo_a_criseno,0.1
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c2_benzo_a_criseno,0.09
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c2_benzo_a_criseno,0.3
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c2_benzo_a_criseno,0.03
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c2_benzo_a_criseno,0.22
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c2_benzo_a_criseno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c2_benzo_a_criseno,0.68
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c2_benzo_a_criseno,0.05
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,c3_benzo_a_criseno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,c3_benzo_a_criseno,0.14
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,c3_benzo_a_criseno,0.07
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,c3_benzo_a_criseno,0.08
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,c3_benzo_a_criseno,0.1
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,c3_benzo_a_criseno,0.32
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,c3_benzo_a_criseno,0.04
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,c3_benzo_a_criseno,0.17
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,c3_benzo_a_criseno,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,c3_benzo_a_criseno,0.83
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,c3_benzo_a_criseno,0.05
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,benzo_b_fluoranteno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,benzo_b_fluoranteno,0.48
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,benzo_b_fluoranteno,0.13
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,benzo_b_fluoranteno,0.17
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,benzo_b_fluoranteno,0.25
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,benzo_b_fluoranteno,0.54
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,benzo_b_fluoranteno,0.35
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,benzo_b_fluoranteno,0.65
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,benzo_b_fluoranteno,0.02
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,benzo_b_fluoranteno,0.1
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,benzo_b_fluoranteno,0.13
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,benzo_k_fluoranteno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,benzo_k_fluoranteno,0.46
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,benzo_k_fluoranteno,0.1
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,benzo_k_fluoranteno,0.19
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,benzo_k_fluoranteno,0.3
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,benzo_k_fluoranteno,0.41
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,benzo_k_fluoranteno,0.27
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,benzo_k_fluoranteno,0.67
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,benzo_k_fluoranteno,0.01
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,benzo_k_fluoranteno,0.07
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,benzo_k_fluoranteno,0.12
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,benzo_a_pireno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,benzo_a_pireno,0.36
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,benzo_a_pireno,0.06
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,benzo_a_pireno,0.18
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,benzo_a_pireno,0.29
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,benzo_a_pireno,0.23
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,benzo_a_pireno,0.24
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,benzo_a_pireno,0.62
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,benzo_a_pireno,0.01
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,benzo_a_pireno,0.1
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,benzo_a_pireno,0.1
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.3
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,dibenzo_ah_antraceno,1
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.03
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.04
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.08
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.13
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.06
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.17
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.01
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.15
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.02
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,indeno_pireno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,indeno_pireno,0.45
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,indeno_pireno,0.14
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,indeno_pireno,0.21
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,indeno_pireno,0.33
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,indeno_pireno,0.76
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,indeno_pireno,0.21
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,indeno_pireno,0.76
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,indeno_pireno,0.02
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,indeno_pireno,0.07
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,indeno_pireno,0.13
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,benzo_perileno,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,benzo_perileno,0.44
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,benzo_perileno,0.12
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,benzo_perileno,0.21
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,benzo_perileno,0.26
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,benzo_perileno,0.51
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,benzo_perileno,0.17
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,benzo_perileno,0.62
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,benzo_perileno,0.03
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,benzo_perileno,0.07
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,benzo_perileno,0.09
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,hpa_16,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,hpa_16,0.69
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,hpa_16,0.12
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,hpa_16,0.22
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,hpa_16,0.37
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,hpa_16,0.65
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,hpa_16,0.23
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,hpa_16,0.62
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,hpa_16,0.02
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,hpa_16,0.15
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,hpa_16,0.15
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,HPAs,ng_g_ps,hpa_33,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,HPAs,ng_g_ps,hpa_33,0.54
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,HPAs,ng_g_ps,hpa_33,0.09
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,HPAs,ng_g_ps,hpa_33,0.18
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,HPAs,ng_g_ps,hpa_33,0.28
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,HPAs,ng_g_ps,hpa_33,0.6
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,HPAs,ng_g_ps,hpa_33,0.18
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,HPAs,ng_g_ps,hpa_33,0.47
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,HPAs,ng_g_ps,hpa_33,0.01
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,HPAs,ng_g_ps,hpa_33,0.42
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,HPAs,ng_g_ps,hpa_33,0.12
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,DDTs,ng_g_ps,op_DDT,0
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,DDTs,ng_g_ps,op_DDT,0
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,DDTs,ng_g_ps,op_DDT,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,DDTs,ng_g_ps,op_DDT,0
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,DDTs,ng_g_ps,op_DDT,0
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,DDTs,ng_g_ps,op_DDT,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,DDTs,ng_g_ps,op_DDT,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,DDTs,ng_g_ps,op_DDT,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,DDTs,ng_g_ps,op_DDT,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,DDTs,ng_g_ps,op_DDT,0
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,DDTs,ng_g_ps,op_DDT,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,DDTs,ng_g_ps,pp_DDT,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,DDTs,ng_g_ps,pp_DDT,0.33
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,DDTs,ng_g_ps,pp_DDT,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,DDTs,ng_g_ps,pp_DDT,0.27
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,DDTs,ng_g_ps,pp_DDT,0.21
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,DDTs,ng_g_ps,pp_DDT,0.46
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,DDTs,ng_g_ps,pp_DDT,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,DDTs,ng_g_ps,pp_DDT,0.28
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,DDTs,ng_g_ps,pp_DDT,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,DDTs,ng_g_ps,pp_DDT,0
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,DDTs,ng_g_ps,pp_DDT,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,DDTs,ng_g_ps,op_DDD,0
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,DDTs,ng_g_ps,op_DDD,0
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,DDTs,ng_g_ps,op_DDD,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,DDTs,ng_g_ps,op_DDD,0
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,DDTs,ng_g_ps,op_DDD,0
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,DDTs,ng_g_ps,op_DDD,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,DDTs,ng_g_ps,op_DDD,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,DDTs,ng_g_ps,op_DDD,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,DDTs,ng_g_ps,op_DDD,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,DDTs,ng_g_ps,op_DDD,0
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,DDTs,ng_g_ps,op_DDD,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,DDTs,ng_g_ps,pp_DDD,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,DDTs,ng_g_ps,pp_DDD,0
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,DDTs,ng_g_ps,pp_DDD,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,DDTs,ng_g_ps,pp_DDD,0.13
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,DDTs,ng_g_ps,pp_DDD,0
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,DDTs,ng_g_ps,pp_DDD,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,DDTs,ng_g_ps,pp_DDD,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,DDTs,ng_g_ps,pp_DDD,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,DDTs,ng_g_ps,pp_DDD,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,DDTs,ng_g_ps,pp_DDD,0
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,DDTs,ng_g_ps,pp_DDD,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,DDTs,ng_g_ps,op_DDE,0
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,DDTs,ng_g_ps,op_DDE,0
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,DDTs,ng_g_ps,op_DDE,0
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,DDTs,ng_g_ps,op_DDE,0
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,DDTs,ng_g_ps,op_DDE,0
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,DDTs,ng_g_ps,op_DDE,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,DDTs,ng_g_ps,op_DDE,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,DDTs,ng_g_ps,op_DDE,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,DDTs,ng_g_ps,op_DDE,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,DDTs,ng_g_ps,op_DDE,0
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,DDTs,ng_g_ps,op_DDE,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,DDTs,ng_g_ps,pp_DDE,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,DDTs,ng_g_ps,pp_DDE,0.31
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,DDTs,ng_g_ps,pp_DDE,0.07
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,DDTs,ng_g_ps,pp_DDE,0.07
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,DDTs,ng_g_ps,pp_DDE,0.08
+om5426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,DDTs,ng_g_ps,pp_DDE,0.22
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,DDTs,ng_g_ps,pp_DDE,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,DDTs,ng_g_ps,pp_DDE,0.04
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,DDTs,ng_g_ps,pp_DDE,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,DDTs,ng_g_ps,pp_DDE,0.05
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,DDTs,ng_g_ps,pp_DDE,0
+om5421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,DDTs,ng_g_ps,ddts,1
+om5422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,DDTs,ng_g_ps,ddts,0.28
+om5423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,DDTs,ng_g_ps,ddts,0.04
+om5424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,DDTs,ng_g_ps,ddts,0.14
+om5425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,DDTs,ng_g_ps,ddts,0.12
+om5426,P6,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.727,-35.096,DDTs,ng_g_ps,ddts,0.28
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,DDTs,ng_g_ps,ddts,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,DDTs,ng_g_ps,ddts,0.12
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,DDTs,ng_g_ps,ddts,0
+om5401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,DDTs,ng_g_ps,ddts,0.03
+om5402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,DDTs,ng_g_ps,ddts,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,mono_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,mono_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,mono_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,mono_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,mono_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,mono_pcbs,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,mono_pcbs,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,mono_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,mono_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,mono_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,mono_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,di_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,di_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,di_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,di_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,di_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,di_pcbs,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,di_pcbs,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,di_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,di_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,di_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,di_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,tri_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,tri_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,tri_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,tri_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,tri_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,tri_pcbs,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,tri_pcbs,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,tri_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,tri_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,tri_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,tri_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,tetra_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,tetra_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,tetra_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,tetra_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,tetra_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,tetra_pcbs,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,tetra_pcbs,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,tetra_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,tetra_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,tetra_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,tetra_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,penta_pcbs,0.86
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,penta_pcbs,1
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,penta_pcbs,0.43
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,penta_pcbs,0.43
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,penta_pcbs,0.43
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,penta_pcbs,0.43
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,penta_pcbs,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,penta_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,penta_pcbs,0.43
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,penta_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,penta_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,hexa_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,hexa_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,hexa_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,hexa_pcbs,0.75
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,hexa_pcbs,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,hexa_pcbs,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,hexa_pcbs,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,hexa_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,hexa_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,hexa_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,hexa_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,hepta_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,hepta_pcbs,1
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,hepta_pcbs,1
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,hepta_pcbs,1
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,hepta_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,hepta_pcbs,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,hepta_pcbs,1
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,hepta_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,hepta_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,hepta_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,hepta_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,octa_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,octa_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,octa_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,octa_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,octa_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,octa_pcbs,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,octa_pcbs,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,octa_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,octa_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,octa_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,octa_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,nona_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,nona_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,nona_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,nona_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,nona_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,nona_pcbs,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,nona_pcbs,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,nona_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,nona_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,nona_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,nona_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,deca_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,deca_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,deca_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,deca_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,deca_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,deca_pcbs,0
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,deca_pcbs,0
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,deca_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,deca_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,deca_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,deca_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,PCBs,ng_g_ps,total_pcbs,0.75
+OM06339,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085111,PCBs,ng_g_ps,total_pcbs,0.88
+OM06340,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085192,PCBs,ng_g_ps,total_pcbs,0.38
+OM06341,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,PCBs,ng_g_ps,total_pcbs,0.75
+OM06342,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,PCBs,ng_g_ps,total_pcbs,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,PCBs,ng_g_ps,total_pcbs,0.38
+om5392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,PCBs,ng_g_ps,total_pcbs,0.38
+om5393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,PCBs,ng_g_ps,total_pcbs,0
+om5394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,PCBs,ng_g_ps,total_pcbs,0.38
+OM06555,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,PCBs,ng_g_ps,total_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,PCBs,ng_g_ps,total_pcbs,0
+OM05421,P1,Estuário e Manguezal,Sedimento,Agosto/2022,-8.672,-35.13,LABs,ng_g_ps,total_labs,1
+OM05422,P2,Estuário e Manguezal,Sedimento,Agosto/2022,-8.638,-35.085,LABs,ng_g_ps,total_labs,0.06
+OM05423,P3,Estuário e Manguezal,Sedimento,Agosto/2022,-8.651,-35.085,LABs,ng_g_ps,total_labs,0.01
+OM05424,P4,Estuário e Manguezal,Sedimento,Agosto/2022,-8.682,-35.114,LABs,ng_g_ps,total_labs,0.02
+OM05425,P5,Estuário e Manguezal,Sedimento,Agosto/2022,-8.683,-35.102,LABs,ng_g_ps,total_labs,0
+OM05426,P6,Estuário e Manguezal,Sedimento,Agosto/2022,-8.727,-35.096,LABs,ng_g_ps,total_labs,0.07
+OM05392,P11,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.766,-35.093,LABs,ng_g_ps,total_labs,0.03
+OM05393,P12,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.762,-35.099,LABs,ng_g_ps,total_labs,0.02
+OM05394,P13,Baía e Recifes de Corais,Sedimento,Agosto/2022,-8.783,-35.097,LABs,ng_g_ps,total_labs,0
+OM05401,P10,Estuário e Manguezal,Sedimento,Agosto/2022,-8.788,-35.105,LABs,ng_g_ps,total_labs,0
+OM05402,P9,Estuário e Manguezal,Sedimento,Agosto/2022,-8.784,-35.106,LABs,ng_g_ps,total_labs,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,naftaleno,1
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,naftaleno,0.79
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,naftaleno,0.8
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,naftaleno,0.23
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,naftaleno,0.66
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,naftaleno,0.62
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,naftaleno,0.19
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,naftaleno,0.24
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c1_naftaleno,0.23
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c1_naftaleno,0.22
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c1_naftaleno,0.12
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c1_naftaleno,0.03
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c1_naftaleno,0.09
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c1_naftaleno,1
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c1_naftaleno,0.03
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c1_naftaleno,0.04
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c2_naftaleno,0.29
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c2_naftaleno,0.38
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c2_naftaleno,0.2
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c2_naftaleno,0.03
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c2_naftaleno,0.08
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c2_naftaleno,1
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c2_naftaleno,0.04
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c2_naftaleno,0.03
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c3_naftaleno,0.12
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c3_naftaleno,0.23
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c3_naftaleno,0.06
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c3_naftaleno,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c3_naftaleno,0.03
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c3_naftaleno,1
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c3_naftaleno,0.04
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c3_naftaleno,0.01
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c4_naftaleno,0.39
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c4_naftaleno,0.43
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c4_naftaleno,0.34
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c4_naftaleno,0.03
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c4_naftaleno,0.17
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c4_naftaleno,1
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c4_naftaleno,0.33
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c4_naftaleno,0.09
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,acenaftileno,1
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,acenaftileno,0.75
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,acenaftileno,0.25
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,acenaftileno,0.14
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,acenaftileno,0.86
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,acenaftileno,0.53
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,acenaftileno,0.06
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,acenaftileno,0.18
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,acenafteno,0.73
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,acenafteno,0.82
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,acenafteno,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,acenafteno,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,acenafteno,0.82
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,acenafteno,1
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,acenafteno,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,acenafteno,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,fluoreno,1
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,fluoreno,0.71
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,fluoreno,0.48
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,fluoreno,0.05
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,fluoreno,0.32
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,fluoreno,0.84
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,fluoreno,0.05
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,fluoreno,0.16
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c1_fluoreno,0.61
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c1_fluoreno,1
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c1_fluoreno,1
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c1_fluoreno,0.04
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c1_fluoreno,0.09
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c1_fluoreno,0.86
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c1_fluoreno,0.26
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c1_fluoreno,0.18
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c2_fluoreno,0.31
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c2_fluoreno,0.52
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c2_fluoreno,1
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c2_fluoreno,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c2_fluoreno,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c2_fluoreno,0.98
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c2_fluoreno,0.32
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c2_fluoreno,0.13
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c3_fluoreno,0.46
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c3_fluoreno,0.35
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c3_fluoreno,0.8
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c3_fluoreno,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c3_fluoreno,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c3_fluoreno,1
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c3_fluoreno,0.71
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c3_fluoreno,0.4
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,fenantreno,1
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,fenantreno,0.87
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,fenantreno,0.44
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,fenantreno,0.08
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,fenantreno,0.6
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,fenantreno,0.62
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,fenantreno,0.02
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,fenantreno,0.4
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,antraceno,0.95
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,antraceno,1
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,antraceno,0.74
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,antraceno,0.15
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,antraceno,0.4
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,antraceno,0.57
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,antraceno,0.08
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,antraceno,0.39
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.78
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c1_fenantreno_antraceno,1
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.49
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.11
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.46
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.76
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.18
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.3
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.76
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.62
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.26
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.15
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.59
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.88
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c2_fenantreno_antraceno,1
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.29
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.34
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.23
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.12
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.03
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.15
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.28
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c3_fenantreno_antraceno,1
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.07
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.29
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.2
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.1
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.03
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.11
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.16
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c4_fenantreno_antraceno,1
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.05
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,fluoranteno,0.81
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,fluoranteno,0.7
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,fluoranteno,0.46
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,fluoranteno,0.1
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,fluoranteno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,fluoranteno,0.43
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,fluoranteno,0.08
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,fluoranteno,0.67
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,pireno,0.93
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,pireno,0.76
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,pireno,0.52
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,pireno,0.12
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,pireno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,pireno,0.54
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,pireno,0.15
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,pireno,0.75
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.94
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.67
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.44
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.12
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c1_fluoranteno_pireno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.69
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.66
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.72
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.23
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.22
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.97
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.03
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.15
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.12
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c2_fluoranteno_pireno,1
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.57
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.04
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.03
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c3_fluoranteno_pireno,1
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c3_fluoranteno_pireno,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.06
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.04
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.58
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.39
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,benzo_a_antraceno,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,benzo_a_antraceno,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,benzo_a_antraceno,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,benzo_a_antraceno,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,benzo_a_antraceno,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,benzo_a_antraceno,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,benzo_a_antraceno,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,benzo_a_antraceno,1
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,criseno,0.34
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,criseno,0.28
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,criseno,0.18
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,criseno,0.05
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,criseno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,criseno,0.19
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,criseno,0.12
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,criseno,0.44
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c1_benzo_a_criseno,0.26
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c1_benzo_a_criseno,0.16
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c1_benzo_a_criseno,0.35
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c1_benzo_a_criseno,0.04
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c1_benzo_a_criseno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c1_benzo_a_criseno,0.11
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c1_benzo_a_criseno,0.55
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c1_benzo_a_criseno,0.19
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c2_benzo_a_criseno,0.29
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c2_benzo_a_criseno,0.2
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c2_benzo_a_criseno,0.25
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c2_benzo_a_criseno,0.04
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c2_benzo_a_criseno,0.36
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c2_benzo_a_criseno,0.16
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c2_benzo_a_criseno,1
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c2_benzo_a_criseno,0.09
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,c3_benzo_a_criseno,0.2
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,c3_benzo_a_criseno,0.08
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,c3_benzo_a_criseno,0.41
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,c3_benzo_a_criseno,0.04
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,c3_benzo_a_criseno,0.23
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,c3_benzo_a_criseno,0.13
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,c3_benzo_a_criseno,1
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,c3_benzo_a_criseno,0.11
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,benzo_b_fluoranteno,0.25
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,benzo_b_fluoranteno,0.38
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,benzo_b_fluoranteno,0.12
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,benzo_b_fluoranteno,0.03
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,benzo_b_fluoranteno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,benzo_b_fluoranteno,0.22
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,benzo_b_fluoranteno,0.05
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,benzo_b_fluoranteno,0.12
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,benzo_k_fluoranteno,0.35
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,benzo_k_fluoranteno,0.23
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,benzo_k_fluoranteno,0.21
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,benzo_k_fluoranteno,0.07
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,benzo_k_fluoranteno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,benzo_k_fluoranteno,0.22
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,benzo_k_fluoranteno,0.09
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,benzo_k_fluoranteno,0.24
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,benzo_a_pireno,0.27
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,benzo_a_pireno,0.26
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,benzo_a_pireno,0.14
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,benzo_a_pireno,0.05
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,benzo_a_pireno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,benzo_a_pireno,0.16
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,benzo_a_pireno,0.07
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,benzo_a_pireno,0.23
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.24
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.21
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.06
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.03
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,dibenzo_ah_antraceno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.17
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.05
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.11
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,indeno_pireno,0.63
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,indeno_pireno,0.45
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,indeno_pireno,0.21
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,indeno_pireno,0.08
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,indeno_pireno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,indeno_pireno,0.31
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,indeno_pireno,0.04
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,indeno_pireno,0.28
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,benzo_perileno,0.32
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,benzo_perileno,0.28
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,benzo_perileno,0.19
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,benzo_perileno,0.09
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,benzo_perileno,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,benzo_perileno,0.29
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,benzo_perileno,0.07
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,benzo_perileno,0.17
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,hpa_16,0.53
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,hpa_16,0.46
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,hpa_16,0.28
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,hpa_16,0.08
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,hpa_16,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,hpa_16,0.33
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,hpa_16,0.08
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,hpa_16,0.41
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,HPAs,ng_g_ps,hpa_33,0.61
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,HPAs,ng_g_ps,hpa_33,0.53
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,HPAs,ng_g_ps,hpa_33,0.58
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,HPAs,ng_g_ps,hpa_33,0.09
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,HPAs,ng_g_ps,hpa_33,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,HPAs,ng_g_ps,hpa_33,0.49
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,HPAs,ng_g_ps,hpa_33,0.44
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,HPAs,ng_g_ps,hpa_33,0.51
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,DDTs,ng_g_ps,op_DDT,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,DDTs,ng_g_ps,op_DDT,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,DDTs,ng_g_ps,op_DDT,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,DDTs,ng_g_ps,op_DDT,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,DDTs,ng_g_ps,op_DDT,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,DDTs,ng_g_ps,op_DDT,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,DDTs,ng_g_ps,op_DDT,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,DDTs,ng_g_ps,op_DDT,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,DDTs,ng_g_ps,pp_DDT,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,DDTs,ng_g_ps,pp_DDT,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,DDTs,ng_g_ps,pp_DDT,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,DDTs,ng_g_ps,pp_DDT,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,DDTs,ng_g_ps,pp_DDT,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,DDTs,ng_g_ps,pp_DDT,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,DDTs,ng_g_ps,pp_DDT,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,DDTs,ng_g_ps,pp_DDT,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,DDTs,ng_g_ps,op_DDD,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,DDTs,ng_g_ps,op_DDD,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,DDTs,ng_g_ps,op_DDD,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,DDTs,ng_g_ps,op_DDD,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,DDTs,ng_g_ps,op_DDD,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,DDTs,ng_g_ps,op_DDD,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,DDTs,ng_g_ps,op_DDD,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,DDTs,ng_g_ps,op_DDD,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,DDTs,ng_g_ps,pp_DDD,1
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,DDTs,ng_g_ps,pp_DDD,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,DDTs,ng_g_ps,pp_DDD,0.23
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,DDTs,ng_g_ps,pp_DDD,0.09
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,DDTs,ng_g_ps,pp_DDD,0.13
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,DDTs,ng_g_ps,pp_DDD,0.22
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,DDTs,ng_g_ps,pp_DDD,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,DDTs,ng_g_ps,pp_DDD,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,DDTs,ng_g_ps,op_DDE,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,DDTs,ng_g_ps,op_DDE,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,DDTs,ng_g_ps,op_DDE,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,DDTs,ng_g_ps,op_DDE,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,DDTs,ng_g_ps,op_DDE,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,DDTs,ng_g_ps,op_DDE,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,DDTs,ng_g_ps,op_DDE,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,DDTs,ng_g_ps,op_DDE,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,DDTs,ng_g_ps,pp_DDE,1
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,DDTs,ng_g_ps,pp_DDE,0.37
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,DDTs,ng_g_ps,pp_DDE,0.22
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,DDTs,ng_g_ps,pp_DDE,0.05
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,DDTs,ng_g_ps,pp_DDE,0.11
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,DDTs,ng_g_ps,pp_DDE,0.16
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,DDTs,ng_g_ps,pp_DDE,0.05
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,DDTs,ng_g_ps,pp_DDE,0.08
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,DDTs,ng_g_ps,ddts,1
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,DDTs,ng_g_ps,ddts,0.28
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,DDTs,ng_g_ps,ddts,0.22
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,DDTs,ng_g_ps,ddts,0.06
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,DDTs,ng_g_ps,ddts,0.12
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,DDTs,ng_g_ps,ddts,0.18
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,DDTs,ng_g_ps,ddts,0.04
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,DDTs,ng_g_ps,ddts,0.06
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,mono_pcbs,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,mono_pcbs,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,mono_pcbs,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,mono_pcbs,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,mono_pcbs,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,mono_pcbs,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,mono_pcbs,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,mono_pcbs,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,di_pcbs,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,di_pcbs,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,di_pcbs,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,di_pcbs,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,di_pcbs,1
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,di_pcbs,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,di_pcbs,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,di_pcbs,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,tri_pcbs,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,tri_pcbs,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,tri_pcbs,0.43
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,tri_pcbs,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,tri_pcbs,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,tri_pcbs,0.43
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,tri_pcbs,0.43
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,tri_pcbs,1
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,tetra_pcbs,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,tetra_pcbs,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,tetra_pcbs,1
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,tetra_pcbs,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,tetra_pcbs,0.2
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,tetra_pcbs,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,tetra_pcbs,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,tetra_pcbs,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,penta_pcbs,0.78
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,penta_pcbs,1
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,penta_pcbs,0.67
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,penta_pcbs,0.33
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,penta_pcbs,0.78
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,penta_pcbs,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,penta_pcbs,0.33
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,penta_pcbs,0.33
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,hexa_pcbs,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,hexa_pcbs,1
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,hexa_pcbs,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,hexa_pcbs,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,hexa_pcbs,0.38
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,hexa_pcbs,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,hexa_pcbs,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,hexa_pcbs,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,hepta_pcbs,1
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,hepta_pcbs,1
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,hepta_pcbs,1
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,hepta_pcbs,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,hepta_pcbs,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,hepta_pcbs,1
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,hepta_pcbs,1
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,hepta_pcbs,1
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,octa_pcbs,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,octa_pcbs,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,octa_pcbs,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,octa_pcbs,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,octa_pcbs,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,octa_pcbs,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,octa_pcbs,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,octa_pcbs,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,nona_pcbs,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,nona_pcbs,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,nona_pcbs,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,nona_pcbs,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,nona_pcbs,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,nona_pcbs,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,nona_pcbs,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,nona_pcbs,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,deca_pcbs,0
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,deca_pcbs,0
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,deca_pcbs,0
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,deca_pcbs,0
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,deca_pcbs,0
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,deca_pcbs,0
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,deca_pcbs,0
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,deca_pcbs,0
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,PCBs,ng_g_ps,total_pcbs,0.44
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085111,PCBs,ng_g_ps,total_pcbs,1
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085192,PCBs,ng_g_ps,total_pcbs,0.94
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,PCBs,ng_g_ps,total_pcbs,0.19
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,PCBs,ng_g_ps,total_pcbs,0.44
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,PCBs,ng_g_ps,total_pcbs,0.19
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,PCBs,ng_g_ps,total_pcbs,0.19
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,PCBs,ng_g_ps,total_pcbs,0.44
+OM05696,P1,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.672,-35.13,LABs,ng_g_ps,total_labs,1
+OM05697,P2,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.638,-35.085,LABs,ng_g_ps,total_labs,0.17
+OM05698,P3,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.651,-35.085,LABs,ng_g_ps,total_labs,0.1
+OM05699,P4,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.682,-35.114,LABs,ng_g_ps,total_labs,0.05
+OM05700,P5,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.683,-35.102,LABs,ng_g_ps,total_labs,0.08
+OM05723,P6,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.727,-35.096,LABs,ng_g_ps,total_labs,0.08
+OM05694,P10,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.788,-35.105,LABs,ng_g_ps,total_labs,0.04
+OM05695,P9,Estuário e Manguezal,Sedimento,Fevereiro/2023,-8.784,-35.106,LABs,ng_g_ps,total_labs,0.01
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,naftaleno,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,naftaleno,0.59
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,naftaleno,0.41
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,naftaleno,0.62
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,naftaleno,0.48
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,naftaleno,0.48
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,naftaleno,0.15
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,naftaleno,0.08
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,naftaleno,0.52
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,naftaleno,0.25
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c1_naftaleno,0.81
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c1_naftaleno,0.36
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c1_naftaleno,0.18
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c1_naftaleno,0.12
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c1_naftaleno,0.32
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c1_naftaleno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c1_naftaleno,0.03
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c1_naftaleno,0.03
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c1_naftaleno,0.48
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c1_naftaleno,0.13
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c2_naftaleno,0.94
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c2_naftaleno,0.39
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c2_naftaleno,0.26
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c2_naftaleno,0.06
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c2_naftaleno,0.33
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c2_naftaleno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c2_naftaleno,0.02
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c2_naftaleno,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c2_naftaleno,0.5
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c2_naftaleno,0.07
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c3_naftaleno,0.54
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c3_naftaleno,0.2
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c3_naftaleno,0.16
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c3_naftaleno,0.1
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c3_naftaleno,0.28
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c3_naftaleno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c3_naftaleno,0.05
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c3_naftaleno,0.03
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c3_naftaleno,0.34
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c3_naftaleno,0.07
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c4_naftaleno,0.25
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c4_naftaleno,0.01
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c4_naftaleno,0.05
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c4_naftaleno,0.05
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c4_naftaleno,0.09
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c4_naftaleno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c4_naftaleno,0.02
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c4_naftaleno,0.02
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c4_naftaleno,0.16
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c4_naftaleno,0.03
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,acenaftileno,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,acenaftileno,0.89
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,acenaftileno,0.22
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,acenaftileno,1
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,acenaftileno,0.93
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,acenaftileno,0.46
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,acenaftileno,0.85
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,acenaftileno,0.07
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,acenaftileno,0.48
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,acenaftileno,0.24
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,acenafteno,0.52
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,acenafteno,0.3
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,acenafteno,0.13
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,acenafteno,0.35
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,acenafteno,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,acenafteno,0.83
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,acenafteno,0.13
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,acenafteno,0.13
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,acenafteno,0.35
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,acenafteno,0.13
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,fluoreno,0.73
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,fluoreno,0.49
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,fluoreno,0.22
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,fluoreno,0.25
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,fluoreno,0.71
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,fluoreno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,fluoreno,0.04
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,fluoreno,0.04
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,fluoreno,0.45
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,fluoreno,0.12
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c1_fluoreno,0.28
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c1_fluoreno,0.13
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c1_fluoreno,0.08
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c1_fluoreno,0.09
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c1_fluoreno,0.16
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c1_fluoreno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c1_fluoreno,0.04
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c1_fluoreno,0.02
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c1_fluoreno,0.23
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c1_fluoreno,0.05
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c2_fluoreno,0.07
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c2_fluoreno,0.09
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c2_fluoreno,0.04
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c2_fluoreno,0.05
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c2_fluoreno,0.06
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c2_fluoreno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c2_fluoreno,0.01
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c2_fluoreno,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c2_fluoreno,0.13
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c2_fluoreno,0.02
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c3_fluoreno,0.1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c3_fluoreno,0.09
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c3_fluoreno,0.04
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c3_fluoreno,0.06
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c3_fluoreno,0.05
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c3_fluoreno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c3_fluoreno,0.01
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c3_fluoreno,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c3_fluoreno,0.2
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c3_fluoreno,0.03
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,fenantreno,0.62
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,fenantreno,0.39
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,fenantreno,0.22
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,fenantreno,0.38
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,fenantreno,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,fenantreno,0.62
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,fenantreno,0.25
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,fenantreno,0.05
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,fenantreno,0.34
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,fenantreno,0.13
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,antraceno,0.64
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,antraceno,0.63
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,antraceno,0.28
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,antraceno,0.4
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,antraceno,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,antraceno,0.67
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,antraceno,0.21
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,antraceno,0.03
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,antraceno,0.33
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,antraceno,0.14
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c1_fenantreno_antraceno,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.43
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.19
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.31
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.51
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.92
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.14
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.04
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.51
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c1_fenantreno_antraceno,0.14
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.55
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.18
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.13
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.24
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.29
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c2_fenantreno_antraceno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.05
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.02
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.42
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c2_fenantreno_antraceno,0.17
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.55
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.13
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.06
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.1
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.11
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c3_fenantreno_antraceno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.03
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.02
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.45
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c3_fenantreno_antraceno,0.08
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.51
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.16
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.06
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.09
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.11
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c4_fenantreno_antraceno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.01
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c4_fenantreno_antraceno,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.51
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c4_fenantreno_antraceno,0.08
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,fluoranteno,0.65
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,fluoranteno,0.56
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,fluoranteno,0.24
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,fluoranteno,0.84
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,fluoranteno,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,fluoranteno,0.71
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,fluoranteno,0.76
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,fluoranteno,0.06
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,fluoranteno,0.43
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,fluoranteno,0.13
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,pireno,0.79
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,pireno,0.55
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,pireno,0.25
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,pireno,0.83
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,pireno,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,pireno,0.98
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,pireno,0.63
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,pireno,0.06
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,pireno,0.52
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,pireno,0.16
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.53
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.33
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.11
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.4
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.4
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c1_fluoranteno_pireno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.25
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.04
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.39
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c1_fluoranteno_pireno,0.09
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.55
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.83
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.16
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.14
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.26
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c2_fluoranteno_pireno,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.08
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.04
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.61
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c2_fluoranteno_pireno,0.15
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.5
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c3_fluoranteno_pireno,1
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.07
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.13
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.13
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.3
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.03
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.03
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.45
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c3_fluoranteno_pireno,0.06
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,benzo_a_antraceno,0.49
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,benzo_a_antraceno,0.17
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,benzo_a_antraceno,0.37
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,benzo_a_antraceno,0.61
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,benzo_a_antraceno,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,benzo_a_antraceno,0.7
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,benzo_a_antraceno,0.38
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,benzo_a_antraceno,0.09
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,benzo_a_antraceno,0.35
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,benzo_a_antraceno,0.29
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,criseno,0.74
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,criseno,0.3
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,criseno,0.27
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,criseno,1
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,criseno,0.79
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,criseno,0.4
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,criseno,0.88
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,criseno,0.08
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,criseno,0.45
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,criseno,0.14
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c1_benzo_a_criseno,0.46
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c1_benzo_a_criseno,0.25
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c1_benzo_a_criseno,0.09
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c1_benzo_a_criseno,0.61
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c1_benzo_a_criseno,0.5
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c1_benzo_a_criseno,0.78
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c1_benzo_a_criseno,0.3
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c1_benzo_a_criseno,0.08
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c1_benzo_a_criseno,1
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c1_benzo_a_criseno,0.06
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c2_benzo_a_criseno,0.92
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c2_benzo_a_criseno,0.48
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c2_benzo_a_criseno,0.15
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c2_benzo_a_criseno,0.31
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c2_benzo_a_criseno,0.25
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c2_benzo_a_criseno,0.68
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c2_benzo_a_criseno,0.11
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c2_benzo_a_criseno,0.05
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c2_benzo_a_criseno,1
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c2_benzo_a_criseno,0.2
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,c3_benzo_a_criseno,0.95
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,c3_benzo_a_criseno,0.56
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,c3_benzo_a_criseno,0.13
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,c3_benzo_a_criseno,0.21
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,c3_benzo_a_criseno,0.22
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,c3_benzo_a_criseno,0.43
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,c3_benzo_a_criseno,0.06
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,c3_benzo_a_criseno,0.06
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,c3_benzo_a_criseno,1
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,c3_benzo_a_criseno,0.15
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,benzo_b_fluoranteno,0.4
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,benzo_b_fluoranteno,0.47
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,benzo_b_fluoranteno,0.37
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,benzo_b_fluoranteno,0.75
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,benzo_b_fluoranteno,0.55
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,benzo_b_fluoranteno,0.7
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,benzo_b_fluoranteno,1
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,benzo_b_fluoranteno,0.1
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,benzo_b_fluoranteno,0.63
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,benzo_b_fluoranteno,0.19
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,benzo_k_fluoranteno,0.58
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,benzo_k_fluoranteno,0.49
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,benzo_k_fluoranteno,0.39
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,benzo_k_fluoranteno,1
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,benzo_k_fluoranteno,0.95
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,benzo_k_fluoranteno,0.56
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,benzo_k_fluoranteno,0.69
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,benzo_k_fluoranteno,0.09
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,benzo_k_fluoranteno,0.6
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,benzo_k_fluoranteno,0.14
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,benzo_a_pireno,0.36
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,benzo_a_pireno,0.25
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,benzo_a_pireno,0.33
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,benzo_a_pireno,1
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,benzo_a_pireno,0.77
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,benzo_a_pireno,0.4
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,benzo_a_pireno,0.63
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,benzo_a_pireno,0.07
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,benzo_a_pireno,0.42
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,benzo_a_pireno,0.12
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.56
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.34
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.31
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,dibenzo_ah_antraceno,1
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.73
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.5
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.9
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.11
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.6
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,dibenzo_ah_antraceno,0.2
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,indeno_pireno,0.51
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,indeno_pireno,0.34
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,indeno_pireno,0.46
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,indeno_pireno,1
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,indeno_pireno,0.9
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,indeno_pireno,0.67
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,indeno_pireno,0.71
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,indeno_pireno,0.09
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,indeno_pireno,0.45
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,indeno_pireno,0.19
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,benzo_perileno,0.72
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,benzo_perileno,0.45
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,benzo_perileno,0.61
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,benzo_perileno,0.92
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,benzo_perileno,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,benzo_perileno,0.99
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,benzo_perileno,0.66
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,benzo_perileno,0.09
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,benzo_perileno,0.83
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,benzo_perileno,0.26
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,hpa_16,0.67
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,hpa_16,0.45
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,hpa_16,0.36
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,hpa_16,0.86
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,hpa_16,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,hpa_16,0.75
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,hpa_16,0.65
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,hpa_16,0.08
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,hpa_16,0.52
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,hpa_16,0.2
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,HPAs,ng_g_ps,hpa_33,0.69
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,HPAs,ng_g_ps,hpa_33,0.48
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,HPAs,ng_g_ps,hpa_33,0.27
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,HPAs,ng_g_ps,hpa_33,0.62
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,HPAs,ng_g_ps,hpa_33,0.72
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,HPAs,ng_g_ps,hpa_33,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,HPAs,ng_g_ps,hpa_33,0.43
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,HPAs,ng_g_ps,hpa_33,0.06
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,HPAs,ng_g_ps,hpa_33,0.58
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,HPAs,ng_g_ps,hpa_33,0.17
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,DDTs,ng_g_ps,op_DDT,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,DDTs,ng_g_ps,op_DDT,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,DDTs,ng_g_ps,op_DDT,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,DDTs,ng_g_ps,op_DDT,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,DDTs,ng_g_ps,op_DDT,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,DDTs,ng_g_ps,op_DDT,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,op_DDT,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,op_DDT,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,DDTs,ng_g_ps,op_DDT,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,DDTs,ng_g_ps,op_DDT,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,DDTs,ng_g_ps,pp_DDT,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,DDTs,ng_g_ps,pp_DDT,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,DDTs,ng_g_ps,pp_DDT,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,DDTs,ng_g_ps,pp_DDT,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,DDTs,ng_g_ps,pp_DDT,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,DDTs,ng_g_ps,pp_DDT,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,pp_DDT,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,pp_DDT,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,DDTs,ng_g_ps,pp_DDT,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,DDTs,ng_g_ps,pp_DDT,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,DDTs,ng_g_ps,op_DDD,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,DDTs,ng_g_ps,op_DDD,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,DDTs,ng_g_ps,op_DDD,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,DDTs,ng_g_ps,op_DDD,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,DDTs,ng_g_ps,op_DDD,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,DDTs,ng_g_ps,op_DDD,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,op_DDD,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,op_DDD,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,DDTs,ng_g_ps,op_DDD,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,DDTs,ng_g_ps,op_DDD,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,DDTs,ng_g_ps,pp_DDD,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,DDTs,ng_g_ps,pp_DDD,0.29
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,DDTs,ng_g_ps,pp_DDD,0.09
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,DDTs,ng_g_ps,pp_DDD,0.06
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,DDTs,ng_g_ps,pp_DDD,0.1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,DDTs,ng_g_ps,pp_DDD,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,pp_DDD,0.67
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,pp_DDD,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,DDTs,ng_g_ps,pp_DDD,0.03
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,DDTs,ng_g_ps,pp_DDD,0.06
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,DDTs,ng_g_ps,op_DDE,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,DDTs,ng_g_ps,op_DDE,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,DDTs,ng_g_ps,op_DDE,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,DDTs,ng_g_ps,op_DDE,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,DDTs,ng_g_ps,op_DDE,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,DDTs,ng_g_ps,op_DDE,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,op_DDE,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,op_DDE,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,DDTs,ng_g_ps,op_DDE,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,DDTs,ng_g_ps,op_DDE,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,DDTs,ng_g_ps,pp_DDE,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,DDTs,ng_g_ps,pp_DDE,0.31
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,DDTs,ng_g_ps,pp_DDE,0.16
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,DDTs,ng_g_ps,pp_DDE,0.05
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,DDTs,ng_g_ps,pp_DDE,0.08
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,DDTs,ng_g_ps,pp_DDE,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,pp_DDE,0.72
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,pp_DDE,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,DDTs,ng_g_ps,pp_DDE,0.04
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,DDTs,ng_g_ps,pp_DDE,0.03
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,DDTs,ng_g_ps,ddts,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,DDTs,ng_g_ps,ddts,0.3
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,DDTs,ng_g_ps,ddts,0.14
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,DDTs,ng_g_ps,ddts,0.05
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,DDTs,ng_g_ps,ddts,0.08
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,DDTs,ng_g_ps,ddts,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,ddts,0.7
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,,,DDTs,ng_g_ps,ddts,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,DDTs,ng_g_ps,ddts,0.03
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,DDTs,ng_g_ps,ddts,0.04
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,mono_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,mono_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,mono_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,mono_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,mono_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,mono_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,mono_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,mono_pcbs,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,mono_pcbs,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,mono_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,di_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,di_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,di_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,di_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,di_pcbs,1
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,di_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,di_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,di_pcbs,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,di_pcbs,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,di_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,tri_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,tri_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,tri_pcbs,1
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,tri_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,tri_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,tri_pcbs,1
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,tri_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,tri_pcbs,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,tri_pcbs,1
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,tri_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,tetra_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,tetra_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,tetra_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,tetra_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,tetra_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,tetra_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,tetra_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,tetra_pcbs,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,tetra_pcbs,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,tetra_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,penta_pcbs,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,penta_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,penta_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,penta_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,penta_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,penta_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,penta_pcbs,0.11
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,penta_pcbs,0.06
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,penta_pcbs,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,penta_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,hexa_pcbs,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,hexa_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,hexa_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,hexa_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,hexa_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,hexa_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,hexa_pcbs,0.13
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,hexa_pcbs,0.02
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,hexa_pcbs,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,hexa_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,hepta_pcbs,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,hepta_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,hepta_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,hepta_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,hepta_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,hepta_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,hepta_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,hepta_pcbs,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,hepta_pcbs,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,hepta_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,octa_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,octa_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,octa_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,octa_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,octa_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,octa_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,octa_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,octa_pcbs,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,octa_pcbs,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,octa_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,nona_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,nona_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,nona_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,nona_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,nona_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,nona_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,nona_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,nona_pcbs,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,nona_pcbs,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,nona_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,deca_pcbs,0
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,deca_pcbs,0
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,deca_pcbs,0
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,deca_pcbs,0
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,deca_pcbs,0
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,deca_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,deca_pcbs,0
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,deca_pcbs,0
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,deca_pcbs,0
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,deca_pcbs,0
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,PCBs,ng_g_ps,total_pcbs,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085111,PCBs,ng_g_ps,total_pcbs,0.01
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085192,PCBs,ng_g_ps,total_pcbs,0.01
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,PCBs,ng_g_ps,total_pcbs,0.01
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,PCBs,ng_g_ps,total_pcbs,0.01
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,PCBs,ng_g_ps,total_pcbs,0
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,PCBs,ng_g_ps,total_pcbs,0.1
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,PCBs,ng_g_ps,total_pcbs,0.01
+OM06337,P7,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.661,-35.149,PCBs,ng_g_ps,total_pcbs,0.01
+OM06344,P8,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.7,-35.104,PCBs,ng_g_ps,total_pcbs,0.01
+OM06338,P1,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.672,-35.13,LABs,ng_g_ps,total_labs,1
+OM06339,P2,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.638,-35.085,LABs,ng_g_ps,total_labs,
+OM06340,P3,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.651,-35.085,LABs,ng_g_ps,total_labs,0.07
+OM06341,P4,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.682,-35.114,LABs,ng_g_ps,total_labs,0.15
+OM06342,P5,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.683,-35.102,LABs,ng_g_ps,total_labs,0.12
+OM06343,P6,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.727,-35.096,LABs,ng_g_ps,total_labs,0.09
+OM06555,P10,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.788,-35.105,LABs,ng_g_ps,total_labs,0.06
+OM06556,P9,Estuário e Manguezal,Sedimento,Janeiro/2024,-8.784,-35.106,LABs,ng_g_ps,total_labs,0.05
