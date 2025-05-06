@@ -9,12 +9,14 @@ from streamlit_folium import st_folium
 st.set_page_config(page_title = 'Ecossistemas', layout = 'wide')
 #-------------------------------------------------------------------------------------------------
 #DEFININDO AS FUNÇÕES
+@st.cache_data
 def load_data(path):
 
     df = pd.read_csv(path, encoding = 'latin-1')
 
     return df
 #-------------------------------------------------------------------------------------------------
+@st.cache_data
 def load_geojson(geojson_files, apa):
 
     lista_ecossistemas = []

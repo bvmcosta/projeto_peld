@@ -8,12 +8,14 @@ import streamlit as st
 st.set_page_config(page_title = 'Mapa de Contaminação', layout = 'wide')
 #-------------------------------------------------------------------------------------------------
 #DEFININDO AS FUNÇÕES
+@st.cache_data
 def load_data(path):
 
     df = pd.read_csv(path, encoding = 'latin-1')
     
     return df
 #-------------------------------------------------------------------------------------------------
+@st.cache_data
 def load_geojson(geojson_file):
 
     with open(geojson_file, 'r', encoding = 'latin-1') as f:
@@ -106,7 +108,8 @@ with st.container(border = True):
     <li>Hidrocarbonetos Policíclicos Aromáticos (HPAs) - 33 analitos, incluindo os 16 HPAs prioritários da EPA (hpa_16) e os HPAs alquilados (hpa_33)</li>
     <li>Dicloro-Difenil-Tricloroetano (DDTs) e seus metabólitos (DDDs e DDEs)</li>
     <li>Bifenilas Policloradas (PCBs) com 1 a 10 átomos de cloro</li>
-    <li>Alquilbenzeno lineares (LABs)</li> 
+    <li>Alquilbenzeno lineares (LABs)</li>
+    <li>Biocidas (DCOIT, Irgarol, Diclofluonida e Clorotalonil)</li> 
     </ul>
     
                 """, 

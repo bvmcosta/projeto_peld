@@ -8,6 +8,7 @@ from streamlit_folium import st_folium
 st.set_page_config(page_title = 'PELD TAMS', layout = 'wide')
 #-------------------------------------------------------------------------------------------------
 #DEFININDO AS FUNÇÕES
+@st.cache_data
 def load_geojson(municipios, ucs):
 
     lista_municipios = []
