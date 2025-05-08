@@ -185,21 +185,27 @@ with st.sidebar:
 
     st.markdown("<h5 style='text-align: justify; color: black;'><strong>Observação:</strong> A visualiação das estações e fontes de poluição ocorre apenas após seleção dos parâmetros 'Ecossistema' e 'Fonte de poluição'</h5>", unsafe_allow_html=True)
 #-------------------------------------------------------------------------------------------------
-if (eco[0] == 'Mapa base')&(fonte[0] == 'Mapa base'):
-    
+if (len(eco) == 0)|(len(fonte) == 0):
+
     mapa1 = create_mapa_base(lista_apa, lista_ecossistemas)
 
-elif (eco[0] != 'Mapa base')&(fonte[0] == 'Mapa base'):
-
-    df1 = df1.loc[(df1['ambiente'] == eco[0]), :]
-    mapa2 = create_mapa_ecossistemas(lista_apa, lista_ecossistemas, df1)
-
 else:
-
-    df1 = df1.loc[(df1['ambiente'] == eco[0]), :]
-    df2 = df2.loc[(df2['fonte'] == fonte[0]), :]
-    mapa2 = create_mapa_ecossistemas(lista_apa, lista_ecossistemas, df1)
-    mapa3 = insert_stations(mapa2, df2)
+    
+    if (eco[0] == 'Mapa base')&(fonte[0] == 'Mapa base'):
+        
+        mapa2 = create_mapa_base(lista_apa, lista_ecossistemas)
+    
+    elif (eco[0] != 'Mapa base')&(fonte[0] == 'Mapa base'):
+    
+        df1 = df1.loc[(df1['ambiente'] == eco[0]), :]
+        mapa3 = create_mapa_ecossistemas(lista_apa, lista_ecossistemas, df1)
+    
+    else:
+    
+        df1 = df1.loc[(df1['ambiente'] == eco[0]), :]
+        df2 = df2.loc[(df2['fonte'] == fonte[0]), :]
+        mapa3 = create_mapa_ecossistemas(lista_apa, lista_ecossistemas, df1)
+        mapa4 = insert_stations(mapa3, df2)
 #-------------------------------------------------------------------------------------------------
 st.markdown("<h1 style='text-align: center; color: black;'>Ecossistemas no sítio PELD TAMS</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: black;'>Localização das estações de amostragem e fontes de contaminação</h2>", unsafe_allow_html=True)
@@ -215,18 +221,24 @@ with st.container(border = True):
 with st.container():
 
     st.markdown("<h5 style='text-align: center; color: black;'>Figura 3</h5>", unsafe_allow_html=True)
-    
-    if (eco[0] == 'Mapa base')&(fonte[0] == 'Mapa base'):
-        
-        st_folium(mapa1, use_container_width = True)
-    
-    elif (eco[0] != 'Mapa base')&(fonte[0] == 'Mapa base'):
-        
-        st_folium(mapa2, use_container_width = True)
-    
-    else:
 
-        st_folium(mapa3, use_container_width = True)
+    if (len(eco) == 0)|(len(fonte) == 0):
+
+        st_folium(mapa1, use_container_width = True)       
+
+    else:
+    
+        if (eco[0] == 'Mapa base')&(fonte[0] == 'Mapa base'):
+            
+            st_folium(mapa2, use_container_width = True)
+        
+        elif (eco[0] != 'Mapa base')&(fonte[0] == 'Mapa base'):
+            
+            st_folium(mapa3, use_container_width = True)
+        
+        else:
+    
+            st_folium(mapa4, use_container_width = True)
 
 with st.container():
     

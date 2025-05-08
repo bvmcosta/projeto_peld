@@ -327,7 +327,7 @@ with st.sidebar:
                               'Parque Nacional Marinho do Forte de Tamandaré',
                               'Reserva Biológica de Saltinho',
                               'Zona de Proteção da Vida Marinha de Tamandaré'])
-             )    
+             )
 #-------------------------------------------------------------------------------------------------
 selecao = []
 
